@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">batterybroadcaster</string>
+    <string name="status">Checking...</string>
+</resources>
